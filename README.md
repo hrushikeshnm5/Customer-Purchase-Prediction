@@ -10,3 +10,6 @@ Key Objectives: Predicting customer preferences, increasing sales, and improving
 􏰀 Competitive Advantage: Stay ahead by understanding and adapting to customer needs.
 􏰀 Personalization: Create personalized marketing campaigns for targeted customer segments.
 􏰀 Cost Efficiency: Optimize resources by focusing on high-potential customers.
+
+# Tools and Technologies
+ Tensorflow, Django, HTML, CSS
